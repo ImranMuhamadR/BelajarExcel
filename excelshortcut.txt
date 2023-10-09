@@ -1,0 +1,24 @@
+SHORTCUT MICROSOFT EXCEL
+
+1. TRIM(CELL) = untuk merapihkan kalimat yang berantakan seperti kelebihan spasi
+2. LOWER(CELL) = untuk merubah huruf menjadi huruf kecil
+3. UPPER(CELL) = untuk merubah huruf menjadi huruf kapital (huruf besar)
+4. PROPER(CELL) = untuk merubah huruf depan di setiap kalimat menjadi huruf capital
+5. RANK(CELL) = untuk menghitung peringkat (rangking) dari nilai tertentu
+6. MIN(CELL) = untuk menghitung sekumpulan data yang nilainya terendah
+7. MAX(CELL) = untuk menghitung sekumpulan data yang nilainya ter tinggi
+8. IF(CELL) = untuke memberikan sebuah kondisi benar/salah
+9. COUNT(CELL) = untuk menghitung sekumpulan data sesuai dengan variablenya
+10. COUNTA(CELL) = untuk menghitung sekumpulan data tapi yang bebentuk text(string)
+11. AVERAGE(CELL) = untuk menghitung rata-rata
+12, COUNTIF(CELL) = untuk menghitung berapa kali nilai rentang sel memenuhi kriteria yang anda tentukan
+13. SUMIF(CELL) = untuk menjumlahkan nilai dalam rentang sel yang memenuhi kriteria tertentu.
+14. ROUNDUP(CELL) = untuk membulatkan suatu angka di atasnya, sesuai dengan digit desimal yang ditentukan
+15. ROUNDOWN(CELL) = untuk membulatkan suatu angka ke angka di bawahnya, sesuai dengan digit desimal yang di tentukan
+16. ROUND(CELL) =  
+17. FLOOR(CELL) = 
+18. CELLING(CELL) = 
+19. MIROUND(CELL) = 
+20. RANDBETWEEN(CELL)= untuk memberikan angka/nilai random tetapi di atur batas awal dan akhirnya.
+
+
