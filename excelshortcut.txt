@@ -16,9 +16,11 @@ SHORTCUT MICROSOFT EXCEL
 14. ROUNDUP(CELL) = untuk membulatkan suatu angka di atasnya, sesuai dengan digit desimal yang ditentukan
 15. ROUNDOWN(CELL) = untuk membulatkan suatu angka ke angka di bawahnya, sesuai dengan digit desimal yang di tentukan
 16. ROUND(CELL) =  
-17. FLOOR(CELL) = 
+17. FLOOR(CELL) = untuk membulatkan suatu angka ke 
 18. CELLING(CELL) = 
 19. MIROUND(CELL) = 
 20. RANDBETWEEN(CELL)= untuk memberikan angka/nilai random tetapi di atur batas awal dan akhirnya.
+
+
 
 
